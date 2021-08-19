@@ -1,0 +1,108 @@
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.Cache
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+c:\users\mariusz\documents\visual studio 2013\Projects\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+C:\Users\Student\Downloads\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.Cache
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojAssemblyReference.cache
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+E:\5 ROK\STUDIA 5 ROK\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojAssemblyReference.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojAssemblyReference.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_PESEL_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojAssemblyReference.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Vigenere_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojAssemblyReference.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Homofoniczny_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojAssemblyReference.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_Hamming_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojAssemblyReference.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_CzestoscLiter_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csprojAssemblyReference.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+D:\PULPIT 15.10.2020\STUDIA 5 ROK\Bezpieczenstwo danych - Rybnik\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe.config
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.exe
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\bin\Debug\MultiSzyfrator.pdb
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.AssemblyReference.cache
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Form1.resources
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.Properties.Resources.resources
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.GenerateResource.cache
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.exe
+C:\Users\Radek\Desktop\Projekty\C#\MultiSzyfrator_RSA_Domanski\MultiSzyfrator\MultiSzyfrator\obj\Debug\MultiSzyfrator.pdb
